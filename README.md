@@ -7,7 +7,7 @@
 [![codecov](https://codecov.io/gh/githubuser/Napari-demo-process/branch/main/graph/badge.svg)](https://codecov.io/gh/githubuser/Napari-demo-process)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/Napari-demo-process)](https://napari-hub.org/plugins/Napari-demo-process)
 
-A simple plugin to use with napari
+A demo plugin function: just for demo  and learning purposes.
 
 ----------------------------------
 
