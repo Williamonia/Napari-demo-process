@@ -23,9 +23,11 @@ https://napari.org/stable/plugins/index.html
 
 ## Installation
 
+Please create a new conda environment, activate the new environment and install the plugin packeage as stated below.
+
 You can install `Napari-demo-process` via [pip]:
 
-    pip install git+https://github.com/Williamonia/Napari-demo-process.git
+    pip install git+https://github.com/Williamonia/Napari-demo-process.git 
 
 
 
