@@ -25,7 +25,7 @@ https://napari.org/stable/plugins/index.html
 
 You can install `Napari-demo-process` via [pip]:
 
-    pip install Napari-demo-process
+    pip install git+https://github.com/Williamonia/Napari-demo-process.git
 
 
 
